@@ -7,7 +7,7 @@ Together is an integrated open-source system designed to combat climate change i
 2. AIoT Smart Farming: A closed-loop IoT system with a Smart Planting Guide to optimize water usage and crop health.
 
 ## Repository Structure
-* /mobile-app-demo: Contains the latest functional APK for testing.
+* /mobile-app-demo: Contains the latest functional APK for testing. [Download Demo APK via Google Drive](https://drive.google.com/file/d/16nLxbj1zLu-nqqhAu5IVAuxl7KdgKdMY/view?usp=sharing)
 * /docs: Technical reports, business models, and presentations (COP28).
 * /iot-logic: (Coming Soon) Embedded C++ code for sensor integration.
 
